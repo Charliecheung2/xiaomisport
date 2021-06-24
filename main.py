@@ -150,7 +150,7 @@ if __name__ ==  "__main__":
     # 登录密码
     passwd = '19960420z'
     # 要修改的步数，直接输入想要修改的步数值，留空为随机步数
-    step = '18111'
+    step = '18112'
 
     user_list = user.split('#')
     passwd_list = passwd.split('#')
